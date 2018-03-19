@@ -37,16 +37,15 @@ Landing page
 ```
 <img src="src/main/resources/static/images/login.png" width="60%" >
 
-```
 
 ```
 API authentication on Okta
 ```
-<img src="src/main/resources/static/images/Okta_app_authentication.png" width="80%" >
+<img src="src/main/resources/static/images/Okta_app_authentication.png" width="90%" >
 
 ```
 Callback to base URL after successful authentication
 ```
-<img src="src/main/resources/static/images/callback_successful_login.png" width="60%" >
+<img src="/src/main/resources/static/images/callback_successful_login.png" width="90%" >
 
 Feel free to use the code.
