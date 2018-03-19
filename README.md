@@ -1,6 +1,8 @@
-# Facebook Oauth2 login using Spring Boot
+# Okta Oauth2 login using Spring Boot
 
-## Spring Boot, OAuth2 Authentication, Facebook API
+Simple Okta OAuth 2 authentication application with Login and Logout. This app can be intigrated with any Java, Spring or backend framework. You can extend this as per your needs.   
+
+## Spring Boot, OAuth2 Authentication, Okta API
 
 
 ## Requirements
@@ -11,7 +13,7 @@
 
 3.  Spring 5, Spring Boot
 
-4.  Facebook developer App
+4.  Okta developer App
 
 
 ## Steps to Setup
@@ -26,5 +28,25 @@
 ```bash
 mvn spring-boot:run
 ```
-
 The application will start at <http://localhost:8080>.
+
+## Snapshots
+
+```
+Landing page
+```
+<img src="src/main/resources/static/images/login.png" width="60%" >
+
+```
+
+```
+API authentication on Okta
+```
+<img src="src/main/resources/static/images/Okta_app_authentication.png" width="80%" >
+
+```
+Callback to base URL after successful authentication
+```
+<img src="src/main/resources/static/images/callback_successful_login.png" width="60%" >
+
+Feel free to use the code.

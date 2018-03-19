@@ -5,8 +5,8 @@
 	<artifactId>okta-login-spring-boot</artifactId>
 	<packaging>jar</packaging>
 	<name>okta Oauth2 login using Spring Boot</name>
-	
-	<url>https://www.akshaythorve.com.com</url>
+
+	<url>https://akshaythorve.com.com</url>
 	<version>1.0</version>
 
 	<parent>
@@ -75,7 +75,7 @@
 			<version>2.2.0.RELEASE</version>
 		</dependency>
 
-	
+
 	</dependencies>
 
 	<repositories>
